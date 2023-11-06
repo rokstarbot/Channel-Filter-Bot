@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 23623198
+API_HASH     = "2f71d58158f33d9560825858ab93434b"
+BOT_TOKEN    = "6897415564:AAGVZrqs-noK5VPdL1wLBZFygRtcgy7JGpA"
+SESSION      = "BQArPL3lZgoA0tfNaVGPn6m-G8xnMx-m9DJseOo4cYHKP7ro0DCiSG5SED1RTWIWY_cHJmY7WeT0ZRRRxz5EMPtyM4xvklqXNRirHORbr_A-f4--jNGxhJIiREGlKQulnIGeCdmwiEGz8zhRHUOIp3lQ0odkrQVle9gGmYVUYZpZDtQrzKa-P5P1VVliF0Th2oWGKO7cUFrK2QCts_Z1DeFAQJod4edz_ngII8WTAI6BzI-xwJkAsBDN4sRfD87dGj4kNtHceXT2bAE4r7kSDG0sYwltmKCoHY8HNUkHc3Won_mnkgICx4bT9I7MgcwTS2oQgv6ZsrhbZV-o_hGk1BAfAAAAAS99tzsA"
+DATABASE_URI = "mongodb+srv://hebapir376:ravi1234@cluster0.x9pmpfx.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1002133531200
+ADMIN        = 5091735355
+CHANNEL      = "@netflixvilla002"
